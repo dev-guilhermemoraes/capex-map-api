@@ -1,0 +1,122 @@
+[
+  {
+    "nome": "Projeto Cerrado",
+    "empresa": "Suzano",
+    "setor": "Papel e celulose",
+    "cidade": "Ribas do Rio Pardo",
+    "uf": "MS",
+    "status": "Em operação",
+    "investimento_mi": 22200,
+    "fonte": "https://www.gazetadopovo.com.br/economia/investimentos-produtivos-brasil-2030/",
+    "latitude": -20.4436,
+    "longitude": -53.7592
+  },
+  {
+    "nome": "Data center no Pecém (fase 1)",
+    "empresa": "TikTok (ByteDance) / Omnia",
+    "setor": "Data centers",
+    "cidade": "Caucaia",
+    "uf": "CE",
+    "status": "Em obras",
+    "investimento_mi": 50000,
+    "fonte": "https://www.opovo.com.br/noticias/economia/2026/01/15/data-center-do-tiktok-inicia-obras-no-pecem.html",
+    "latitude": -3.6072,
+    "longitude": -38.9683
+  },
+  {
+    "nome": "Biorrefinaria de SAF e diesel renovável",
+    "empresa": "Acelen Renováveis",
+    "setor": "Biocombustíveis",
+    "cidade": "São Francisco do Conde",
+    "uf": "BA",
+    "status": "Em obras",
+    "investimento_mi": 7000,
+    "fonte": "https://movimentoeconomico.com.br/economia/combustivel/2026/07/31/com-uso-de-macauba-biorrefinaria-da-acelen-e-a-1a-operacao-da-chamada-nordeste/",
+    "latitude": -12.6276,
+    "longitude": -38.6801
+  },
+  {
+    "nome": "Planta de SAF a partir de etanol",
+    "empresa": "JetBio",
+    "setor": "Biocombustíveis",
+    "cidade": "Paulínia",
+    "uf": "SP",
+    "status": "Anunciado",
+    "investimento_mi": 10000,
+    "fonte": "https://diariodocomercio.com.br/economia/brasil-lidera-producao-combustivel-sustentavel-aviacao/",
+    "latitude": -22.7612,
+    "longitude": -47.1543
+  },
+  {
+    "nome": "Projeto Natureza",
+    "empresa": "CMPC",
+    "setor": "Papel e celulose",
+    "cidade": "Barra do Ribeiro",
+    "uf": "RS",
+    "status": "Licenciamento",
+    "investimento_mi": 24000,
+    "fonte": "https://www.gazetadopovo.com.br/economia/investimentos-produtivos-brasil-2030/",
+    "latitude": -30.2914,
+    "longitude": -51.3011
+  },
+  {
+    "nome": "Projeto Sucuriú",
+    "empresa": "Arauco",
+    "setor": "Papel e celulose",
+    "cidade": "Inocência",
+    "uf": "MS",
+    "status": "Em obras",
+    "investimento_mi": 26500,
+    "fonte": "https://www.gazetadopovo.com.br/economia/investimentos-produtivos-brasil-2030/",
+    "latitude": -19.7275,
+    "longitude": -51.9281
+  },
+  {
+    "nome": "Novos veículos em São Bernardo do Campo",
+    "empresa": "Volkswagen",
+    "setor": "Automotivo",
+    "cidade": "São Bernardo do Campo",
+    "uf": "SP",
+    "status": "Em obras",
+    "investimento_mi": 7200,
+    "fonte": "https://www.gazetadopovo.com.br/economia/investimentos-produtivos-brasil-2030/",
+    "latitude": -23.6914,
+    "longitude": -46.5646
+  },
+  {
+    "nome": "Usina de etanol de milho em Redenção",
+    "empresa": "Grão Pará Energia (Mafra + CMAA)",
+    "setor": "Biocombustíveis",
+    "cidade": "Redenção",
+    "uf": "PA",
+    "status": "Anunciado",
+    "investimento_mi": 2000,
+    "fonte": "https://www.gazetadopovo.com.br/economia/investimentos-produtivos-brasil-2030/",
+    "latitude": -8.0286,
+    "longitude": -50.0317
+  },
+  {
+    "nome": "Complexo industrial de Camaçari",
+    "empresa": "BYD",
+    "setor": "Automotivo",
+    "cidade": "Camaçari",
+    "uf": "BA",
+    "status": "Em operação",
+    "investimento_mi": 5500,
+    "fonte": "https://movimentoeconomico.com.br/estados/bahia/2026/07/16/byd-acelera-nacionalizacao-em-camacari-com-nova-fase-da-fabrica-e-hibrido-flex/",
+    "latitude": -12.6996,
+    "longitude": -38.3263
+  },
+  {
+    "nome": "Biorrefinaria de etanol de milho em Rio Verde",
+    "empresa": "Inpasa",
+    "setor": "Biocombustíveis",
+    "cidade": "Rio Verde",
+    "uf": "GO",
+    "status": "Em obras",
+    "investimento_mi": 2400,
+    "fonte": "https://www.novacana.com/noticias/inpasa-anuncia-investimento-r-2-4-bilhoes-usina-etanol-milho-goias-311025",
+    "latitude": -17.7923,
+    "longitude": -50.9192
+  }
+]
